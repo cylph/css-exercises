@@ -1,0 +1,13 @@
+.click {
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.click.one {
+    background-color: black;
+    color: white;
+}
+
+.click.two {
+    background-color: yellow;
+}
