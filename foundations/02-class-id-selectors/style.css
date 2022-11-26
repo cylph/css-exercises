@@ -1,0 +1,19 @@
+p {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu, sans-serif;
+}
+
+#blue {
+    color:blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#green-hl {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
